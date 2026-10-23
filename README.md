@@ -1,4 +1,3 @@
-# Port-Phillip-Satellite-Derived-Bathymetry
 # Satellite-Derived Bathymetry – Port Phillip Bay
 
 This repository contains supplementary results and figures from my RMIT capstone research investigating the feasibility of Satellite-Derived Bathymetry (SDB) across the shallow sand shoals of the Great Sands in southern Port Phillip Bay.
