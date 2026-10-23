@@ -19,5 +19,3 @@ Each folder contains the available calibration, internal validation and SDB rast
 The MATLAB processing code was based on Bernardis et al. (2023), with the original code available at:
 
 https://github.com/IMATI-RS/SDB
-
-*The SDB results are for research purposes only and should
